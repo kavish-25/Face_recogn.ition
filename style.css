@@ -1,0 +1,17 @@
+body{
+    color:yellow;
+    background-color:aqua ;
+}
+.heading{
+width:80%;
+font-size:22px;
+}
+#camera{
+    border:2px dashed white;
+    width:350px;
+    height:300px;
+    
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color:violet;
+}
